@@ -1,6 +1,6 @@
 
 
-````markdown
+
 # Machine Learning Assignment — FARS Classification & Growth-Curve Regression
 
 This repository contains two mini-projects implemented in a single Jupyter notebook (`Machine_Learning.ipynb`):
@@ -58,7 +58,7 @@ This repository contains two mini-projects implemented in a single Jupyter noteb
 git clone https://github.com/rianeps/Machine-Learning-Assignment.git
 cd Machine-Learning-Assignment
 python -m venv .venv
-````
+```
 
 Activate:
 
