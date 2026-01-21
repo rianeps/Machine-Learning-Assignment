@@ -1,4 +1,4 @@
-Got it — here’s a **short, clean `README.md`** that matches your notebook + report, without being too long. Copy-paste this into `README.md` in the repo.
+
 
 ````markdown
 # Machine Learning Assignment — FARS Classification & Growth-Curve Regression
